@@ -16,3 +16,10 @@ Om apache2 bråkar pga. port 80.
 Starta services / tjänster i Windows.
 
 Stoppa branchen och starta om apache2.
+
+## MySQL
+
+**setup**
+Kör
+    sudo mysql -u root
+    
