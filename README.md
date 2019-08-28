@@ -21,6 +21,7 @@ Stoppa branchen och starta om apache2.
 
 **setup**
 Kör
+    
     sudo mysql -u root
     
     GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' IDENTIFIED BY 'password';
